@@ -1,0 +1,14 @@
+C:\Users\joaoc\source\repos\Aula-aula140921-classes01\bin\Debug\netcoreapp3.1\Aula-aula140921-classes01.exe
+C:\Users\joaoc\source\repos\Aula-aula140921-classes01\bin\Debug\netcoreapp3.1\Aula-aula140921-classes01.deps.json
+C:\Users\joaoc\source\repos\Aula-aula140921-classes01\bin\Debug\netcoreapp3.1\Aula-aula140921-classes01.runtimeconfig.json
+C:\Users\joaoc\source\repos\Aula-aula140921-classes01\bin\Debug\netcoreapp3.1\Aula-aula140921-classes01.runtimeconfig.dev.json
+C:\Users\joaoc\source\repos\Aula-aula140921-classes01\bin\Debug\netcoreapp3.1\Aula-aula140921-classes01.dll
+C:\Users\joaoc\source\repos\Aula-aula140921-classes01\bin\Debug\netcoreapp3.1\Aula-aula140921-classes01.pdb
+C:\Users\joaoc\source\repos\Aula-aula140921-classes01\obj\Debug\netcoreapp3.1\Aula-aula140921-classes01.csproj.AssemblyReference.cache
+C:\Users\joaoc\source\repos\Aula-aula140921-classes01\obj\Debug\netcoreapp3.1\Aula-aula140921-classes01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaoc\source\repos\Aula-aula140921-classes01\obj\Debug\netcoreapp3.1\Aula-aula140921-classes01.AssemblyInfoInputs.cache
+C:\Users\joaoc\source\repos\Aula-aula140921-classes01\obj\Debug\netcoreapp3.1\Aula-aula140921-classes01.AssemblyInfo.cs
+C:\Users\joaoc\source\repos\Aula-aula140921-classes01\obj\Debug\netcoreapp3.1\Aula-aula140921-classes01.csproj.CoreCompileInputs.cache
+C:\Users\joaoc\source\repos\Aula-aula140921-classes01\obj\Debug\netcoreapp3.1\Aula-aula140921-classes01.dll
+C:\Users\joaoc\source\repos\Aula-aula140921-classes01\obj\Debug\netcoreapp3.1\Aula-aula140921-classes01.pdb
+C:\Users\joaoc\source\repos\Aula-aula140921-classes01\obj\Debug\netcoreapp3.1\Aula-aula140921-classes01.genruntimeconfig.cache

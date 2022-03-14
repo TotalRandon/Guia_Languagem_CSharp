@@ -1,0 +1,14 @@
+C:\Users\joaoc\source\repos\caralho\obj\Debug\netcoreapp3.1\caralho.csproj.AssemblyReference.cache
+C:\Users\joaoc\source\repos\caralho\obj\Debug\netcoreapp3.1\caralho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaoc\source\repos\caralho\obj\Debug\netcoreapp3.1\caralho.AssemblyInfoInputs.cache
+C:\Users\joaoc\source\repos\caralho\obj\Debug\netcoreapp3.1\caralho.AssemblyInfo.cs
+C:\Users\joaoc\source\repos\caralho\obj\Debug\netcoreapp3.1\caralho.csproj.CoreCompileInputs.cache
+C:\Users\joaoc\source\repos\caralho\bin\Debug\netcoreapp3.1\caralho.exe
+C:\Users\joaoc\source\repos\caralho\bin\Debug\netcoreapp3.1\caralho.deps.json
+C:\Users\joaoc\source\repos\caralho\bin\Debug\netcoreapp3.1\caralho.runtimeconfig.json
+C:\Users\joaoc\source\repos\caralho\bin\Debug\netcoreapp3.1\caralho.runtimeconfig.dev.json
+C:\Users\joaoc\source\repos\caralho\bin\Debug\netcoreapp3.1\caralho.dll
+C:\Users\joaoc\source\repos\caralho\bin\Debug\netcoreapp3.1\caralho.pdb
+C:\Users\joaoc\source\repos\caralho\obj\Debug\netcoreapp3.1\caralho.dll
+C:\Users\joaoc\source\repos\caralho\obj\Debug\netcoreapp3.1\caralho.pdb
+C:\Users\joaoc\source\repos\caralho\obj\Debug\netcoreapp3.1\caralho.genruntimeconfig.cache
