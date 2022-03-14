@@ -1,0 +1,14 @@
+C:\Users\joaoc\source\repos\Q10.exessoes\bin\Debug\netcoreapp3.1\Q10.exessoes.exe
+C:\Users\joaoc\source\repos\Q10.exessoes\bin\Debug\netcoreapp3.1\Q10.exessoes.deps.json
+C:\Users\joaoc\source\repos\Q10.exessoes\bin\Debug\netcoreapp3.1\Q10.exessoes.runtimeconfig.json
+C:\Users\joaoc\source\repos\Q10.exessoes\bin\Debug\netcoreapp3.1\Q10.exessoes.runtimeconfig.dev.json
+C:\Users\joaoc\source\repos\Q10.exessoes\bin\Debug\netcoreapp3.1\Q10.exessoes.dll
+C:\Users\joaoc\source\repos\Q10.exessoes\bin\Debug\netcoreapp3.1\Q10.exessoes.pdb
+C:\Users\joaoc\source\repos\Q10.exessoes\obj\Debug\netcoreapp3.1\Q10.exessoes.csproj.AssemblyReference.cache
+C:\Users\joaoc\source\repos\Q10.exessoes\obj\Debug\netcoreapp3.1\Q10.exessoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaoc\source\repos\Q10.exessoes\obj\Debug\netcoreapp3.1\Q10.exessoes.AssemblyInfoInputs.cache
+C:\Users\joaoc\source\repos\Q10.exessoes\obj\Debug\netcoreapp3.1\Q10.exessoes.AssemblyInfo.cs
+C:\Users\joaoc\source\repos\Q10.exessoes\obj\Debug\netcoreapp3.1\Q10.exessoes.csproj.CoreCompileInputs.cache
+C:\Users\joaoc\source\repos\Q10.exessoes\obj\Debug\netcoreapp3.1\Q10.exessoes.dll
+C:\Users\joaoc\source\repos\Q10.exessoes\obj\Debug\netcoreapp3.1\Q10.exessoes.pdb
+C:\Users\joaoc\source\repos\Q10.exessoes\obj\Debug\netcoreapp3.1\Q10.exessoes.genruntimeconfig.cache

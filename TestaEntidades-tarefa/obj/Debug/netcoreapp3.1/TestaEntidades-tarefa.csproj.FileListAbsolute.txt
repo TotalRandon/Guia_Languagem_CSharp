@@ -1,0 +1,14 @@
+C:\Users\joaoc\source\repos\TestaEntidades-tarefa\bin\Debug\netcoreapp3.1\TestaEntidades-tarefa.exe
+C:\Users\joaoc\source\repos\TestaEntidades-tarefa\bin\Debug\netcoreapp3.1\TestaEntidades-tarefa.deps.json
+C:\Users\joaoc\source\repos\TestaEntidades-tarefa\bin\Debug\netcoreapp3.1\TestaEntidades-tarefa.runtimeconfig.json
+C:\Users\joaoc\source\repos\TestaEntidades-tarefa\bin\Debug\netcoreapp3.1\TestaEntidades-tarefa.runtimeconfig.dev.json
+C:\Users\joaoc\source\repos\TestaEntidades-tarefa\bin\Debug\netcoreapp3.1\TestaEntidades-tarefa.dll
+C:\Users\joaoc\source\repos\TestaEntidades-tarefa\bin\Debug\netcoreapp3.1\TestaEntidades-tarefa.pdb
+C:\Users\joaoc\source\repos\TestaEntidades-tarefa\obj\Debug\netcoreapp3.1\TestaEntidades-tarefa.csproj.AssemblyReference.cache
+C:\Users\joaoc\source\repos\TestaEntidades-tarefa\obj\Debug\netcoreapp3.1\TestaEntidades-tarefa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaoc\source\repos\TestaEntidades-tarefa\obj\Debug\netcoreapp3.1\TestaEntidades-tarefa.AssemblyInfoInputs.cache
+C:\Users\joaoc\source\repos\TestaEntidades-tarefa\obj\Debug\netcoreapp3.1\TestaEntidades-tarefa.AssemblyInfo.cs
+C:\Users\joaoc\source\repos\TestaEntidades-tarefa\obj\Debug\netcoreapp3.1\TestaEntidades-tarefa.csproj.CoreCompileInputs.cache
+C:\Users\joaoc\source\repos\TestaEntidades-tarefa\obj\Debug\netcoreapp3.1\TestaEntidades-tarefa.dll
+C:\Users\joaoc\source\repos\TestaEntidades-tarefa\obj\Debug\netcoreapp3.1\TestaEntidades-tarefa.pdb
+C:\Users\joaoc\source\repos\TestaEntidades-tarefa\obj\Debug\netcoreapp3.1\TestaEntidades-tarefa.genruntimeconfig.cache
