@@ -1,0 +1,14 @@
+C:\Users\joaoc\source\repos\Console_Prova\bin\Debug\netcoreapp3.1\Console_Prova.exe
+C:\Users\joaoc\source\repos\Console_Prova\bin\Debug\netcoreapp3.1\Console_Prova.deps.json
+C:\Users\joaoc\source\repos\Console_Prova\bin\Debug\netcoreapp3.1\Console_Prova.runtimeconfig.json
+C:\Users\joaoc\source\repos\Console_Prova\bin\Debug\netcoreapp3.1\Console_Prova.runtimeconfig.dev.json
+C:\Users\joaoc\source\repos\Console_Prova\bin\Debug\netcoreapp3.1\Console_Prova.dll
+C:\Users\joaoc\source\repos\Console_Prova\bin\Debug\netcoreapp3.1\Console_Prova.pdb
+C:\Users\joaoc\source\repos\Console_Prova\obj\Debug\netcoreapp3.1\Console_Prova.csproj.AssemblyReference.cache
+C:\Users\joaoc\source\repos\Console_Prova\obj\Debug\netcoreapp3.1\Console_Prova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaoc\source\repos\Console_Prova\obj\Debug\netcoreapp3.1\Console_Prova.AssemblyInfoInputs.cache
+C:\Users\joaoc\source\repos\Console_Prova\obj\Debug\netcoreapp3.1\Console_Prova.AssemblyInfo.cs
+C:\Users\joaoc\source\repos\Console_Prova\obj\Debug\netcoreapp3.1\Console_Prova.csproj.CoreCompileInputs.cache
+C:\Users\joaoc\source\repos\Console_Prova\obj\Debug\netcoreapp3.1\Console_Prova.dll
+C:\Users\joaoc\source\repos\Console_Prova\obj\Debug\netcoreapp3.1\Console_Prova.pdb
+C:\Users\joaoc\source\repos\Console_Prova\obj\Debug\netcoreapp3.1\Console_Prova.genruntimeconfig.cache

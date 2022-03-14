@@ -1,0 +1,14 @@
+C:\Users\joaoc\source\repos\Classes-Abstratas-Complementares\bin\Debug\netcoreapp3.1\Classes-Abstratas-Complementares.exe
+C:\Users\joaoc\source\repos\Classes-Abstratas-Complementares\bin\Debug\netcoreapp3.1\Classes-Abstratas-Complementares.deps.json
+C:\Users\joaoc\source\repos\Classes-Abstratas-Complementares\bin\Debug\netcoreapp3.1\Classes-Abstratas-Complementares.runtimeconfig.json
+C:\Users\joaoc\source\repos\Classes-Abstratas-Complementares\bin\Debug\netcoreapp3.1\Classes-Abstratas-Complementares.runtimeconfig.dev.json
+C:\Users\joaoc\source\repos\Classes-Abstratas-Complementares\bin\Debug\netcoreapp3.1\Classes-Abstratas-Complementares.dll
+C:\Users\joaoc\source\repos\Classes-Abstratas-Complementares\bin\Debug\netcoreapp3.1\Classes-Abstratas-Complementares.pdb
+C:\Users\joaoc\source\repos\Classes-Abstratas-Complementares\obj\Debug\netcoreapp3.1\Classes-Abstratas-Complementares.csproj.AssemblyReference.cache
+C:\Users\joaoc\source\repos\Classes-Abstratas-Complementares\obj\Debug\netcoreapp3.1\Classes-Abstratas-Complementares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaoc\source\repos\Classes-Abstratas-Complementares\obj\Debug\netcoreapp3.1\Classes-Abstratas-Complementares.AssemblyInfoInputs.cache
+C:\Users\joaoc\source\repos\Classes-Abstratas-Complementares\obj\Debug\netcoreapp3.1\Classes-Abstratas-Complementares.AssemblyInfo.cs
+C:\Users\joaoc\source\repos\Classes-Abstratas-Complementares\obj\Debug\netcoreapp3.1\Classes-Abstratas-Complementares.csproj.CoreCompileInputs.cache
+C:\Users\joaoc\source\repos\Classes-Abstratas-Complementares\obj\Debug\netcoreapp3.1\Classes-Abstratas-Complementares.dll
+C:\Users\joaoc\source\repos\Classes-Abstratas-Complementares\obj\Debug\netcoreapp3.1\Classes-Abstratas-Complementares.pdb
+C:\Users\joaoc\source\repos\Classes-Abstratas-Complementares\obj\Debug\netcoreapp3.1\Classes-Abstratas-Complementares.genruntimeconfig.cache
