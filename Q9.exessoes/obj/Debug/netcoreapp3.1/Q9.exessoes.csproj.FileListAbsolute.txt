@@ -1,0 +1,13 @@
+C:\Users\joaoc\source\repos\Q9.exessoes\bin\Debug\netcoreapp3.1\Q9.exessoes.exe
+C:\Users\joaoc\source\repos\Q9.exessoes\bin\Debug\netcoreapp3.1\Q9.exessoes.deps.json
+C:\Users\joaoc\source\repos\Q9.exessoes\bin\Debug\netcoreapp3.1\Q9.exessoes.runtimeconfig.json
+C:\Users\joaoc\source\repos\Q9.exessoes\bin\Debug\netcoreapp3.1\Q9.exessoes.runtimeconfig.dev.json
+C:\Users\joaoc\source\repos\Q9.exessoes\bin\Debug\netcoreapp3.1\Q9.exessoes.dll
+C:\Users\joaoc\source\repos\Q9.exessoes\bin\Debug\netcoreapp3.1\Q9.exessoes.pdb
+C:\Users\joaoc\source\repos\Q9.exessoes\obj\Debug\netcoreapp3.1\Q9.exessoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaoc\source\repos\Q9.exessoes\obj\Debug\netcoreapp3.1\Q9.exessoes.AssemblyInfoInputs.cache
+C:\Users\joaoc\source\repos\Q9.exessoes\obj\Debug\netcoreapp3.1\Q9.exessoes.AssemblyInfo.cs
+C:\Users\joaoc\source\repos\Q9.exessoes\obj\Debug\netcoreapp3.1\Q9.exessoes.csproj.CoreCompileInputs.cache
+C:\Users\joaoc\source\repos\Q9.exessoes\obj\Debug\netcoreapp3.1\Q9.exessoes.dll
+C:\Users\joaoc\source\repos\Q9.exessoes\obj\Debug\netcoreapp3.1\Q9.exessoes.pdb
+C:\Users\joaoc\source\repos\Q9.exessoes\obj\Debug\netcoreapp3.1\Q9.exessoes.genruntimeconfig.cache

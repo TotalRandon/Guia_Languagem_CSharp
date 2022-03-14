@@ -1,0 +1,13 @@
+C:\Users\joaoc\source\repos\Novo02\bin\Debug\netcoreapp3.1\Novo02.exe
+C:\Users\joaoc\source\repos\Novo02\bin\Debug\netcoreapp3.1\Novo02.deps.json
+C:\Users\joaoc\source\repos\Novo02\bin\Debug\netcoreapp3.1\Novo02.runtimeconfig.json
+C:\Users\joaoc\source\repos\Novo02\bin\Debug\netcoreapp3.1\Novo02.runtimeconfig.dev.json
+C:\Users\joaoc\source\repos\Novo02\bin\Debug\netcoreapp3.1\Novo02.dll
+C:\Users\joaoc\source\repos\Novo02\bin\Debug\netcoreapp3.1\Novo02.pdb
+C:\Users\joaoc\source\repos\Novo02\obj\Debug\netcoreapp3.1\Novo02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaoc\source\repos\Novo02\obj\Debug\netcoreapp3.1\Novo02.AssemblyInfoInputs.cache
+C:\Users\joaoc\source\repos\Novo02\obj\Debug\netcoreapp3.1\Novo02.AssemblyInfo.cs
+C:\Users\joaoc\source\repos\Novo02\obj\Debug\netcoreapp3.1\Novo02.csproj.CoreCompileInputs.cache
+C:\Users\joaoc\source\repos\Novo02\obj\Debug\netcoreapp3.1\Novo02.dll
+C:\Users\joaoc\source\repos\Novo02\obj\Debug\netcoreapp3.1\Novo02.pdb
+C:\Users\joaoc\source\repos\Novo02\obj\Debug\netcoreapp3.1\Novo02.genruntimeconfig.cache
