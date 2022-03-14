@@ -1,0 +1,13 @@
+C:\Users\joaoc\source\repos\Visualizador02\bin\Debug\Visualizador02.exe.config
+C:\Users\joaoc\source\repos\Visualizador02\bin\Debug\Visualizador02.exe
+C:\Users\joaoc\source\repos\Visualizador02\bin\Debug\Visualizador02.pdb
+C:\Users\joaoc\source\repos\Visualizador02\obj\Debug\Visualizador02.csproj.AssemblyReference.cache
+C:\Users\joaoc\source\repos\Visualizador02\obj\Debug\Visualizador02.Properties.Resources.resources
+C:\Users\joaoc\source\repos\Visualizador02\obj\Debug\Visualizador02.csproj.GenerateResource.cache
+C:\Users\joaoc\source\repos\Visualizador02\obj\Debug\Visualizador02.csproj.CoreCompileInputs.cache
+C:\Users\joaoc\source\repos\Visualizador02\obj\Debug\Visualizador02.exe
+C:\Users\joaoc\source\repos\Visualizador02\obj\Debug\Visualizador02.pdb
+C:\Users\joaoc\source\repos\Visualizador02\obj\Debug\Visualizador02.FRM_Visualizador.resources
+C:\Users\joaoc\source\repos\Visualizador02\obj\Debug\Visualizador02.frm_opcoes.resources
+C:\Users\joaoc\source\repos\Visualizador02\obj\Debug\Visualizador02.ListsForm.resources
+C:\Users\joaoc\source\repos\Visualizador02\obj\Debug\Visualizador02.ListaUsuarios.resources

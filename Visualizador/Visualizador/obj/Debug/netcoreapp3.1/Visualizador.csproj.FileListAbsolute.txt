@@ -1,0 +1,14 @@
+C:\Users\joaoc\source\repos\Visualizador\Visualizador\bin\Debug\netcoreapp3.1\Visualizador.exe
+C:\Users\joaoc\source\repos\Visualizador\Visualizador\bin\Debug\netcoreapp3.1\Visualizador.deps.json
+C:\Users\joaoc\source\repos\Visualizador\Visualizador\bin\Debug\netcoreapp3.1\Visualizador.runtimeconfig.json
+C:\Users\joaoc\source\repos\Visualizador\Visualizador\bin\Debug\netcoreapp3.1\Visualizador.runtimeconfig.dev.json
+C:\Users\joaoc\source\repos\Visualizador\Visualizador\bin\Debug\netcoreapp3.1\Visualizador.dll
+C:\Users\joaoc\source\repos\Visualizador\Visualizador\bin\Debug\netcoreapp3.1\Visualizador.pdb
+C:\Users\joaoc\source\repos\Visualizador\Visualizador\obj\Debug\netcoreapp3.1\Visualizador.csproj.AssemblyReference.cache
+C:\Users\joaoc\source\repos\Visualizador\Visualizador\obj\Debug\netcoreapp3.1\Visualizador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaoc\source\repos\Visualizador\Visualizador\obj\Debug\netcoreapp3.1\Visualizador.AssemblyInfoInputs.cache
+C:\Users\joaoc\source\repos\Visualizador\Visualizador\obj\Debug\netcoreapp3.1\Visualizador.AssemblyInfo.cs
+C:\Users\joaoc\source\repos\Visualizador\Visualizador\obj\Debug\netcoreapp3.1\Visualizador.csproj.CoreCompileInputs.cache
+C:\Users\joaoc\source\repos\Visualizador\Visualizador\obj\Debug\netcoreapp3.1\Visualizador.dll
+C:\Users\joaoc\source\repos\Visualizador\Visualizador\obj\Debug\netcoreapp3.1\Visualizador.pdb
+C:\Users\joaoc\source\repos\Visualizador\Visualizador\obj\Debug\netcoreapp3.1\Visualizador.genruntimeconfig.cache
