@@ -1,0 +1,13 @@
+C:\Users\joaoc\source\repos\ImprimeArgumentos\bin\Debug\netcoreapp3.1\ImprimeArgumentos.exe
+C:\Users\joaoc\source\repos\ImprimeArgumentos\bin\Debug\netcoreapp3.1\ImprimeArgumentos.deps.json
+C:\Users\joaoc\source\repos\ImprimeArgumentos\bin\Debug\netcoreapp3.1\ImprimeArgumentos.runtimeconfig.json
+C:\Users\joaoc\source\repos\ImprimeArgumentos\bin\Debug\netcoreapp3.1\ImprimeArgumentos.runtimeconfig.dev.json
+C:\Users\joaoc\source\repos\ImprimeArgumentos\bin\Debug\netcoreapp3.1\ImprimeArgumentos.dll
+C:\Users\joaoc\source\repos\ImprimeArgumentos\bin\Debug\netcoreapp3.1\ImprimeArgumentos.pdb
+C:\Users\joaoc\source\repos\ImprimeArgumentos\obj\Debug\netcoreapp3.1\ImprimeArgumentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaoc\source\repos\ImprimeArgumentos\obj\Debug\netcoreapp3.1\ImprimeArgumentos.AssemblyInfoInputs.cache
+C:\Users\joaoc\source\repos\ImprimeArgumentos\obj\Debug\netcoreapp3.1\ImprimeArgumentos.AssemblyInfo.cs
+C:\Users\joaoc\source\repos\ImprimeArgumentos\obj\Debug\netcoreapp3.1\ImprimeArgumentos.csproj.CoreCompileInputs.cache
+C:\Users\joaoc\source\repos\ImprimeArgumentos\obj\Debug\netcoreapp3.1\ImprimeArgumentos.dll
+C:\Users\joaoc\source\repos\ImprimeArgumentos\obj\Debug\netcoreapp3.1\ImprimeArgumentos.pdb
+C:\Users\joaoc\source\repos\ImprimeArgumentos\obj\Debug\netcoreapp3.1\ImprimeArgumentos.genruntimeconfig.cache

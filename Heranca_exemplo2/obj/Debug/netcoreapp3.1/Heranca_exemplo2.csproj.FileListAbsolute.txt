@@ -1,0 +1,14 @@
+C:\Users\joaoc\source\repos\Heranca_exemplo2\bin\Debug\netcoreapp3.1\Heranca_exemplo2.exe
+C:\Users\joaoc\source\repos\Heranca_exemplo2\bin\Debug\netcoreapp3.1\Heranca_exemplo2.deps.json
+C:\Users\joaoc\source\repos\Heranca_exemplo2\bin\Debug\netcoreapp3.1\Heranca_exemplo2.runtimeconfig.json
+C:\Users\joaoc\source\repos\Heranca_exemplo2\bin\Debug\netcoreapp3.1\Heranca_exemplo2.runtimeconfig.dev.json
+C:\Users\joaoc\source\repos\Heranca_exemplo2\bin\Debug\netcoreapp3.1\Heranca_exemplo2.dll
+C:\Users\joaoc\source\repos\Heranca_exemplo2\bin\Debug\netcoreapp3.1\Heranca_exemplo2.pdb
+C:\Users\joaoc\source\repos\Heranca_exemplo2\obj\Debug\netcoreapp3.1\Heranca_exemplo2.csproj.AssemblyReference.cache
+C:\Users\joaoc\source\repos\Heranca_exemplo2\obj\Debug\netcoreapp3.1\Heranca_exemplo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaoc\source\repos\Heranca_exemplo2\obj\Debug\netcoreapp3.1\Heranca_exemplo2.AssemblyInfoInputs.cache
+C:\Users\joaoc\source\repos\Heranca_exemplo2\obj\Debug\netcoreapp3.1\Heranca_exemplo2.AssemblyInfo.cs
+C:\Users\joaoc\source\repos\Heranca_exemplo2\obj\Debug\netcoreapp3.1\Heranca_exemplo2.csproj.CoreCompileInputs.cache
+C:\Users\joaoc\source\repos\Heranca_exemplo2\obj\Debug\netcoreapp3.1\Heranca_exemplo2.dll
+C:\Users\joaoc\source\repos\Heranca_exemplo2\obj\Debug\netcoreapp3.1\Heranca_exemplo2.pdb
+C:\Users\joaoc\source\repos\Heranca_exemplo2\obj\Debug\netcoreapp3.1\Heranca_exemplo2.genruntimeconfig.cache

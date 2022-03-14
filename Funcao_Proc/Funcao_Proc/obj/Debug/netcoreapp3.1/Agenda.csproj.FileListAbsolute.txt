@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\Funcao_Proc\Funcao_Proc\bin\Debug\netcoreapp3.1\Agenda.exe
+C:\Users\user\source\repos\Funcao_Proc\Funcao_Proc\bin\Debug\netcoreapp3.1\Agenda.deps.json
+C:\Users\user\source\repos\Funcao_Proc\Funcao_Proc\bin\Debug\netcoreapp3.1\Agenda.runtimeconfig.json
+C:\Users\user\source\repos\Funcao_Proc\Funcao_Proc\bin\Debug\netcoreapp3.1\Agenda.runtimeconfig.dev.json
+C:\Users\user\source\repos\Funcao_Proc\Funcao_Proc\bin\Debug\netcoreapp3.1\Agenda.dll
+C:\Users\user\source\repos\Funcao_Proc\Funcao_Proc\bin\Debug\netcoreapp3.1\Agenda.pdb
+C:\Users\user\source\repos\Funcao_Proc\Funcao_Proc\obj\Debug\netcoreapp3.1\Agenda.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Funcao_Proc\Funcao_Proc\obj\Debug\netcoreapp3.1\Agenda.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Funcao_Proc\Funcao_Proc\obj\Debug\netcoreapp3.1\Agenda.AssemblyInfo.cs
+C:\Users\user\source\repos\Funcao_Proc\Funcao_Proc\obj\Debug\netcoreapp3.1\Agenda.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Funcao_Proc\Funcao_Proc\obj\Debug\netcoreapp3.1\Agenda.dll
+C:\Users\user\source\repos\Funcao_Proc\Funcao_Proc\obj\Debug\netcoreapp3.1\Agenda.pdb
+C:\Users\user\source\repos\Funcao_Proc\Funcao_Proc\obj\Debug\netcoreapp3.1\Agenda.genruntimeconfig.cache
